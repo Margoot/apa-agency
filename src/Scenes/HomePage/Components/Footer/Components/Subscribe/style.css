@@ -1,0 +1,35 @@
+.subCompTitle {
+    font-size: 16px;
+    line-height: 16px;
+    padding-bottom: 20px;
+    color: #c6e4e3;
+    font-family: 'open_sanslight';
+}
+
+.subComp .mainList {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    padding-bottom: 20px;
+  }
+
+.subComp li a {
+    color: #fff;
+}
+
+.subComp li {
+    line-height: 13px;
+    padding-bottom: 7px;
+}
+
+.subComp li.footer-phone {
+    font-size: 16px;
+    line-height: 20px;
+    padding-bottom: 15px;
+}
+
+.subComp li.footer-mail {
+    font-size: 16px;
+    line-height: 20px;
+    padding-bottom: 15px;
+}
